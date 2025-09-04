@@ -1,16 +1,48 @@
-## Hi there 👋
+Hi 👋, I'm MD ZAFAR
 
-<!--
-**mdzafar99/mdzafar99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate about **Full-Stack Development | Open Source | Cloud Computing**  
+💡 Always learning and building cool projects  
+🤝 Open to collaboration and knowledge sharing 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Skills  
+
+### 💻 Languages  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,typescript" />
+</p>
+
+### ⚡ Frameworks & Libraries  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express" />
+</p>
+
+### 🗄️ Databases  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+### 🛠️ Tools & Cloud  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,aws,firebase,vscode" />
+</p>
+
+---
+
+## 🌐 Connect With Me  
+<p align="left">
+  <a href="https://github.com/mdzafar99" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="40px" alt="GitHub"/>
+  </a>
+  <a href="https://linkedin.com/in/itsmdzafar" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40px" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/itsmdzafar" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" width="40px" alt="Twitter"/>
+  </a>
+  <a href="https://instagram.com/i_md.zafar" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" width="40px" alt="Instagram"/>
+  </a>
+</p>
