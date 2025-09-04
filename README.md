@@ -1,4 +1,4 @@
-Hi 👋, I'm MD ZAFAR
+<h1 align: centre> Hi 👋, I'm MD ZAFAR </h1>
 
 🚀 Passionate about **Full-Stack Development | Open Source | Cloud Computing**  
 💡 Always learning and building cool projects  
