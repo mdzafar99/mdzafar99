@@ -1,7 +1,11 @@
+<h1 align="center";> 👋🏼 Hi, I'm MD ZAFAR </h1>
+<h3 align="center";> Web Developer </h3>
+
+---
+
 🚀 Passionate about **Full-Stack Development | Open Source | Cloud Computing**  
 💡 Always learning and building cool projects  
 🤝 Open to collaboration and knowledge sharing 
-
 
 ---
 
