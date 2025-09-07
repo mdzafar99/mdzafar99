@@ -38,7 +38,7 @@
   <a href="https://github.com/mdzafar99" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" width="40px" alt="GitHub"/>
   </a>
-  
+  <br>
   <a href="https://linkedin.com/in/itsmdzafar" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40px" alt="LinkedIn"/>
   </a>
