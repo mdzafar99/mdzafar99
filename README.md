@@ -38,12 +38,15 @@
   <a href="https://github.com/mdzafar99" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" width="40px" alt="GitHub"/>
   </a>
+  
   <a href="https://linkedin.com/in/itsmdzafar" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40px" alt="LinkedIn"/>
   </a>
+  
   <a href="https://twitter.com/itsmdzafar" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" width="40px" alt="Twitter"/>
   </a>
+  
   <a href="https://instagram.com/i_md.zafar" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" width="40px" alt="Instagram"/>
   </a>
