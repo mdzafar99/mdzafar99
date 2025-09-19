@@ -1,5 +1,5 @@
-<h1 align="center";> 👋🏼 Hi, I'm MD ZAFAR </h1>
-<h3 align="center";> Web Developer </h3>
+<h1 align="center";> 👋🏻 Hi, I'm MD ZAFAR </h1>
+<h3 align="center";> Web Developer 🌐 </h3>
 
 ---
 
