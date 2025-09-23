@@ -3,7 +3,7 @@
 <div align=center>JavaScript | React | Node.js | Python</div>
 <br>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blue" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=mdzafar99&color=blue" alt="Profile views" />
 </p>
 
 ---
