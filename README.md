@@ -23,7 +23,7 @@
 | Project | Tech Stack | Link |
 |---------|------------|------|
 | Portfolio Website | HTML, CSS, JS | [View](https://mdzafar99.github.io/MD-ZAFAR-Portfolio/) |
-| MediLab+ : Health Clinic| HTML, CSS, JS | [View](https://mdzafar99.github.io/MediLabPlus/) |
+| MediLab+ : Health Clinic| HTML, CSS, JS | [View](https://mdzafar99.github.io/MediLab-Plus/) |
 | BeQuizy - Online Quiz| HTML, CSS, JS | [View](https://mdzafar99.github.io/BeQuizy/) |
 | ResumeGold : Resume Builder| HTML, CSS, JS | [View](https://mdzafar99.github.io/ResumeGold/) |
 
