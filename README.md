@@ -1,5 +1,5 @@
 <h1 align="center";> 👋🏻 Hi, I'm MD ZAFAR </h1>
-<h3 align="center";> Full Stack Developer <a href="https://www.flaticon.com/free-icons/full-stack-web-development" title="full stack web development icons">Full stack web development icons created by kerismaker - Flaticon</a></h3>
+<h3 align="center";> Full Stack Developer <img src="https://icons8.com/icon/jKaf3KRuFVGt/external-developer-software-development-soft-fill-soft-fill-juicy-fish"</h3>
 
 ---
 
