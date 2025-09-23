@@ -15,17 +15,17 @@
 - 💡 Always learning and building cool projects  
 - 🤝 Open to collaboration and knowledge sharing
 - 🚀 Passionate about **Full-Stack Development | Open Source | Cloud Computing**  
-- 📫 How to reach me: **[your-email@example.com](mailto:your-email@example.com)**  
+- 📫 How to reach me: **[mdzafar2454@gmail.com](mailto:mdzafar2454@gmail.com)**  
 
 ---
 
 ## 📂 Projects
 | Project | Tech Stack | Link |
 |---------|------------|------|
-| Portfolio Website | HTML, CSS, JS | [View](mdzafar99.github.io/MD-ZAFAR-Portfolio/) |
-| MediLab+ : Health Clinic| HTML, CSS, JS | [View](mdzafar99.github.io/MediLabPlus/) |
-| BeQuizy - Online Quiz| HTML, CSS, JS | [View](mdzafar99.github.io/BeQuizy/) |
-| ResumeGold : Resume Builder| HTML, CSS, JS | [View](mdzafar99.github.io/ResumeGold/) |
+| Portfolio Website | HTML, CSS, JS | [View](https://mdzafar99.github.io/MD-ZAFAR-Portfolio/) |
+| MediLab+ : Health Clinic| HTML, CSS, JS | [View](https://mdzafar99.github.io/MediLabPlus/) |
+| BeQuizy - Online Quiz| HTML, CSS, JS | [View](https://mdzafar99.github.io/BeQuizy/) |
+| ResumeGold : Resume Builder| HTML, CSS, JS | [View](https://mdzafar99.github.io/ResumeGold/) |
 
 
 
