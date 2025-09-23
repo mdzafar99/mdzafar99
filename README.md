@@ -1,5 +1,5 @@
 <h1 align="center";> 👋🏻 Hi, I'm MD ZAFAR </h1>
-<h3 align="center";> Full Stack Developer <img src="https://www.flaticon.com/free-icon/coding_3242257"/></h3>
+<h3 align="center"; > Full Stack Developer</h3>
 
 ---
 
@@ -29,6 +29,14 @@
 ### 🛠️ Tools & Cloud  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,aws,firebase,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mdzafar99&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdzafar99&layout=compact&theme=radical" />
 </p>
 
 ---
