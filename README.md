@@ -1,5 +1,5 @@
 <h1 align="center";> 👋🏻 Hi, I'm MD ZAFAR </h1>
-<h3 align="center";> Full Stack Developer <img src="https://icons8.com/icon/jKaf3KRuFVGt/external-developer-software-development-soft-fill-soft-fill-juicy-fish"</h3>
+<h3 align="center";> Full Stack Developer <img src="https://www.flaticon.com/free-icon/coding_3242257"/></h3>
 
 ---
 
