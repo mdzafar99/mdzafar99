@@ -53,3 +53,23 @@
     <img src="https://skillicons.dev/icons?i=instagram" width="40px" alt="Instagram"/>
   </a>
 </p>
+
+
+
+
+
+## 📫 Connect with Me
+<p align="center">
+  <a href="https://linkedin.com/in/yourusername" target="_blank">
+    <img alt="LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/linkedin.svg" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/yourusername" target="_blank">
+    <img alt="GitHub" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/github.svg" width="40" height="40"/>
+  </a>
+  <a href="https://twitter.com/yourusername" target="_blank">
+    <img alt="Twitter" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/twitter.svg" width="40" height="40"/>
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img alt="Email" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/gmail.svg" width="40" height="40"/>
+  </a>
+</p>
