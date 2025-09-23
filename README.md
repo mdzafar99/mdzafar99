@@ -1,11 +1,34 @@
 <h1 align="center";> 👋🏻 Hi, I'm MD ZAFAR </h1>
 <h3 align="center"; > Full Stack Developer</h3>
+<div align=center>JavaScript | React | Node.js | Python</div>
+<br>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blue" alt="Profile views" />
+</p>
 
 ---
 
-🚀 Passionate about **Full-Stack Development | Open Source | Cloud Computing**  
-💡 Always learning and building cool projects  
-🤝 Open to collaboration and knowledge sharing 
+## 🚀 About Me
+- 🌱 I’m currently learning **Advanced React & Node.js**  
+- 💻 I love building **Full Stack Web Applications**  
+- 🌍 I’m open to **remote work opportunities**
+- 💡 Always learning and building cool projects  
+- 🤝 Open to collaboration and knowledge sharing
+- 🚀 Passionate about **Full-Stack Development | Open Source | Cloud Computing**  
+- 📫 How to reach me: **[your-email@example.com](mailto:your-email@example.com)**  
+
+---
+
+## 📂 Projects
+| Project | Tech Stack | Link |
+|---------|------------|------|
+| Portfolio Website | HTML, CSS, JS | [View](mdzafar99.github.io/MD-ZAFAR-Portfolio/) |
+| MediLab+ : Health Clinic| HTML, CSS, JS | [View](mdzafar99.github.io/MediLabPlus/) |
+| BeQuizy - Online Quiz| HTML, CSS, JS | [View](mdzafar99.github.io/BeQuizy/) |
+| ResumeGold : Resume Builder| HTML, CSS, JS | [View](mdzafar99.github.io/ResumeGold/) |
+
+
+
 
 ---
 
@@ -38,6 +61,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=mdzafar99&show_icons=true&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdzafar99&layout=compact&theme=radical" />
 </p>
+
+---
+
+## 🏆Streak & Trophy 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mdzafar99&theme=radical)
+![Trophy](https://github-profile-trophy.vercel.app/?username=mdzafar99&theme=radical&row=1&column=4)
 
 ---
 
